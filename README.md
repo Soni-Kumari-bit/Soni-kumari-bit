@@ -1,32 +1,55 @@
-# Hi 👋, I'm Soni Kumari
+# 👋 Hi, I'm Soni Kumari
 
+🎓 B.Tech Computer Science Student  
 💻 Aspiring Software Developer  
-🚀 C++ & DSA Learner | Web Developer  
+🚀 C++ | DSA | Web Development Enthusiast  
 
 ---
 
-### 🌱 Currently Learning
-- Data Structures & Algorithms (C++)
-- Improving Communication Skills
+## 🧑‍💻 About Me
+- 🌱 Currently learning Data Structures & Algorithms (C++)
+- 💡 Interested in Software Development
+- 📚 Improving problem-solving & communication skills
 
 ---
 
-### 🚀 Projects
-- 🛒 E-commerce Website (HTML, CSS, JavaScript)
-- 🤖 AI Spam Detection System (Python, NumPy, Streamlit)
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- C
+- C++
+- Python
+
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
+
+### ⚙️ Tools
+- Git
+- GitHub
 
 ---
 
-### 🛠️ Skills
-C | C++ | HTML | CSS | JavaScript | Python
+## 📊 GitHub Stats
+
+![Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soni-Kumari-bit&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soni-Kumari-bit)
 
 ---
 
-### 📫 Connect with me
-- 📧 Email: sonammehta6380@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/soni-kumari-b00698388  
+## 📈 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soni-Kumari-bit)
 
 ---
 
-### ⚡ Fun Fact
-I love solving problems and building real-world projects 💡
+## 📫 Contact Me
+📧 Email: sonammehta6380@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/soni-kumari-b00698388  
+
+---
+
+## ⚡ Fun Fact
+I love solving problems and learning new technologies 🚀
