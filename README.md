@@ -1,45 +1,45 @@
 # 👋 Hi, I'm Soni Kumari
 
-🎓 B.Tech Computer Science Student  
 💻 Aspiring Software Developer  
-🚀 C++ | DSA | Web Development Enthusiast  
+🎓 B.Tech Computer Science Student  
+🌐 Dream big, code bigger 🚀  
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 Currently learning Data Structures & Algorithms (C++)
-- 💡 Interested in Software Development
-- 📚 Improving problem-solving & communication skills
+## 🌱 About Me
+- 🤖 Learning Data Structures & Algorithms (C++)
+- 💡 Interested in Web Development & Problem Solving
+- 📚 Continuously improving my skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Languages & Tools
 
 ### 💻 Programming Languages
-- C
-- C++
-- Python
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Tools
-- Git
-- GitHub
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Soni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soni-Kumari-bit&show_icons=true)
+![Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soni-Kumari-bit&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soni-Kumari-bit)
 
 ---
 
-## 📈 Contribution Streak
+## 📈 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soni-Kumari-bit)
 
@@ -52,4 +52,4 @@
 ---
 
 ## ⚡ Fun Fact
-I love solving problems and learning new technologies 🚀
+I enjoy solving problems and turning ideas into code 🚀
